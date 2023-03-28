@@ -1,0 +1,11 @@
+/////////////////////////////////////TuizinsPiano/////////////////////////////////////
+
+1.Music Name:Problems
+
+2.Music Bpm:120
+
+3. Music Notes:
+B4 FS5 ; ;
+
+4.Tempo
+4 4 ; ;
